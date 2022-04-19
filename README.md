@@ -5,7 +5,7 @@ I am a workaholic enthusiast and a fan of optimizations. My systematic analytica
 Programming has always been my main interest, namely: development, organization of service development and optimization of activities based on analysis.
 I am always open to new opportunities.
 
-## 😁 I love ♥ JS, enjoying 🐉 Python, remember 🐘 PHP.
+## 😁 I love ♥ JS, enjoy 🐉 Python, remember 🐘 PHP.
 
 My current stack:
 
