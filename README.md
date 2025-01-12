@@ -11,7 +11,7 @@ My current stack:
 
 Svelte JS, SvelteKit, Vite JS, Node JS, DGraph DB
 
-<img alt="Javascript" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" height="36" width="36"/> [<img alt="Svelte" src="https://camo.githubusercontent.com/667bb3aed3b725c94da10d16faeaa92a71334035ee72bd1d0f58a1d12138c336/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7376656c74652e737667" height="36" width="36"/>](https://svelte.dev/) [<img alt="Vite JS" src="https://vitejs.dev/logo.svg" height="36" width="36"/>](https://vitejs.dev) [<img alt="Node JS" src="https://github.com/nodejs/nodejs.org/raw/main/public/static/images/logo-hexagon-card.png" height="36" width="36"/>](https://nodejs.org/en/) [<img alt="Dgraph DB" src="https://github.com/dgraph-io/dgraph/raw/master/logo.png" height="36"/>](https://nodejs.org/en/)
+<img alt="Javascript" src="https://cdn.simpleicons.org/javascript" height="36" width="36"/> [<img alt="Svelte" src="https://cdn.simpleicons.org/svelte" height="36" width="36"/>](https://svelte.dev/) [<img alt="Vite JS" src="https://vitejs.dev/logo.svg" height="36" width="36"/>](https://vitejs.dev) [<img alt="Node JS" src="https://cdn.simpleicons.org/nodedotjs" height="36" width="36"/>](https://nodejs.org) [<img alt="Dgraph DB" src="https://github.com/dgraph-io/dgraph/raw/master/logo.png" height="36"/>](https://dgraph.io/)
 
 
 Also I've used: 
@@ -21,8 +21,8 @@ ExpressJS, AWS DynamoDB, MongoDB, MySQL, PostgreSQL, Neo4j, Redis, Docker, Git, 
 
 ## 📫 How to reach me:
 
-[<img alt="Telegram @drug_z" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" height="36" width="36"/>](https://t.me/drug_z)
-[<img alt="LinkedIn" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" height="36" width="36"/>](https://www.linkedin.com/in/oleg-korzhanov/?locale=en_US)
+[<img alt="Telegram @drug_z" src="https://cdn.simpleicons.org/telegram" height="36" width="36"/>](https://t.me/drug_z)
+[<img alt="LinkedIn" src="https://cdn.simpleicons.org/LinkedIn" height="36" width="36"/>](https://www.linkedin.com/in/oleg-korzhanov/?locale=en_US)
 
 ## 🔭 I’m currently working on:
 [<img src="https://hrh.app/apple-touch-icon-76x76-precomposed.png" height="36" width="36">](https://hrh.app?medium=github)
