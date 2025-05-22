@@ -16,13 +16,13 @@ Svelte JS, SvelteKit, Vite JS, Node JS, DGraph DB
 
 Also I've used: 
 
-ExpressJS, AWS DynamoDB, MongoDB, MySQL, PostgreSQL, Neo4j, Redis, Docker, Git, Snowpack, Vue JS, Webpack, ReactJS/NextJS, jQuery and many other interesting things from other languages.
+ExpressJS, AWS DynamoDB, MongoDB, MySQL, PostgreSQL, Neo4j, Redis, Docker, Git, Snowpack, Vue JS, Webpack, NextJS, jQuery and many other interesting things from other languages.
 
 
 ## 📫 How to reach me:
 
-[<img alt="Telegram @drug_z" src="https://cdn.simpleicons.org/telegram" height="36" width="36"/>](https://t.me/drug_z)
-[<img alt="LinkedIn" src="https://cdn.simpleicons.org/LinkedIn" height="36" width="36"/>](https://www.linkedin.com/in/oleg-korzhanov/?locale=en_US)
+[<img alt="Telegram @oleg_korzhanov" src="https://cdn.simpleicons.org/telegram" height="36" width="36"/>](https://t.me/oleg_korzhanov)
+[<img alt="LinkedIn" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png.original.png" height="36" width="36"/>](https://www.linkedin.com/in/oleg-korzhanov/?locale=en_US)
 
 ## 🔭 I’m currently working on:
 [<img src="https://hrh.app/apple-touch-icon-76x76-precomposed.png" height="36" width="36">](https://hrh.app?medium=github)
